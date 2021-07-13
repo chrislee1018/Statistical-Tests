@@ -1,3 +1,6 @@
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
+
 # Statistical Tests
 
 Statistical tests implemented in T-SQL with sample data.
