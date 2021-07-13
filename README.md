@@ -1,6 +1,4 @@
-<img src="https://render.githubusercontent.com/render/math?math=\rho = \frac{\text{cov}(X,Y)}{\sigma_x \sigma_y}">
 
-<img src="https://render.githubusercontent.com/render/math?math=r = \frac{{}\sum_{i=1}^{n} (x_i - \overline{x})(y_i - \overline{y})}{\sqrt{\sum_{i=1}^{n} (x_i - \overline{x})^2(y_i - \overline{y})^2}}">
 
 
 # Statistical Tests
@@ -39,6 +37,10 @@ An implementation of the Pearson Correlation Coefficient in T-SQL with sample da
 In statistics, the Pearson correlation coefficient, also referred to as Pearson's r is a measure of linear correlation between two sets of data.
 
 It is the covariance of two variables, divided by the product of their standard deviations. This creates a normalised measurement of covariance with a result between −1 and 1. 
+
+<img src="https://render.githubusercontent.com/render/math?math=\rho = \frac{\text{cov}(X,Y)}{\sigma_x \sigma_y}">
+
+<img src="https://render.githubusercontent.com/render/math?math=r = \frac{{}\sum_{i=1}^{n} (x_i - \overline{x})(y_i - \overline{y})}{\sqrt{\sum_{i=1}^{n} (x_i - \overline{x})^2(y_i - \overline{y})^2}}">
 
 ### Prerequisites
 
