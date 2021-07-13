@@ -2,7 +2,7 @@
 
 <img src="https://render.githubusercontent.com/render/math?math=\rho = \frac{\text{cov}(X,Y)}{\sigma_x \sigma_y}">
 
-<img src="https://render.githubusercontent.com/render/math?math=\frac{{}\sum_{i=1}^{n} (x_i - \overline{x})(y_i - \overline{y})}{\sqrt{\sum_{i=1}^{n} (x_i - \overline{x})^2(y_i - \overline{y})^2}}">
+<img src="https://render.githubusercontent.com/render/math?math=r = \frac{{}\sum_{i=1}^{n} (x_i - \overline{x})(y_i - \overline{y})}{\sqrt{\sum_{i=1}^{n} (x_i - \overline{x})^2(y_i - \overline{y})^2}}">
 
 
 # Statistical Tests
